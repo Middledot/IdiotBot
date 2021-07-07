@@ -1,0 +1,11 @@
+discord.py
+fuzzywuzzy
+aiosqlite3
+dateparser
+udpy
+youtube_dl
+discord-ext-menus (https://github.com/Rapptz/discord-ext-menus)
+sqlite3
+pyttsx3
+mojang
+tabulate
